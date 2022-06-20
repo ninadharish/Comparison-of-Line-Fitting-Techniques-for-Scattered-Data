@@ -12,7 +12,7 @@ def plot():
     """Plot Linear Regression Output for the given data using all methods
     """
 
-    filename = "./data/insurance.csv"
+    filename = "../data/insurance.csv"
 
     age = []
     cost = []
